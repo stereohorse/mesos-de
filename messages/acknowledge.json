@@ -1,0 +1,12 @@
+{
+   "framework_id":{
+      "value":"462ee559-aab7-4fbb-ae9d-5dcb7d329391-0002"
+   },
+   "type":"ACKNOWLEDGE",
+   "acknowledge":{
+      "task_id":{
+         "value":"066cb76f-aad9-4d16-b00a-375b790cbe62"
+      },
+      "uuid":"UGQBfAhLREyVSqtmuvK6jA=="
+   }
+}

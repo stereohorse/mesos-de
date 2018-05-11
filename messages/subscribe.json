@@ -1,0 +1,9 @@
+{
+   "type": "SUBSCRIBE",
+   "subscribe": {
+      "framework_info": {
+        "user": "",
+        "name": "our lovely framework"
+      }
+  }
+}
