@@ -1,12 +1,12 @@
 {
   "framework_id": {
-    "value": "6710839e-236a-43e7-b8a6-aff380000c9f-0000"
+    "value": "f471178d-e60e-431d-b60c-d3c0421799fa-0000"
   },
   "type": "ACCEPT",
   "accept": {
     "offer_ids": [
       {
-        "value": "6710839e-236a-43e7-b8a6-aff380000c9f-O1"
+        "value": "f471178d-e60e-431d-b60c-d3c0421799fa-O0"
       }
     ],
     "operations": [
@@ -20,7 +20,7 @@
                 "value": "12220-3440-12532-my-task2"
               },
               "agent_id": {
-                "value": "83198a53-242e-47fb-81b8-cef898202ba4-S0"
+                "value": "f471178d-e60e-431d-b60c-d3c0421799fa-S0"
               },
               "command": {
                 "shell": false
@@ -28,8 +28,7 @@
               "container": {
                 "type": "DOCKER",
                 "docker": {
-                  "image": "nginx".
-
+                  "image": "nginx"
                 }
               },
               "resources": [
