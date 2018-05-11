@@ -1,12 +1,15 @@
 {
-   "framework_id":{
-      "value":"462ee559-aab7-4fbb-ae9d-5dcb7d329391-0002"
-   },
-   "type":"ACKNOWLEDGE",
-   "acknowledge":{
-      "task_id":{
-         "value":"066cb76f-aad9-4d16-b00a-375b790cbe62"
-      },
-      "uuid":"UGQBfAhLREyVSqtmuvK6jA=="
-   }
+  "framework_id": {
+    "value": "f471178d-e60e-431d-b60c-d3c0421799fa-0000"
+  },
+  "type": "ACKNOWLEDGE",
+  "acknowledge": {
+    "agent_id": {
+      "value": "f471178d-e60e-431d-b60c-d3c0421799fa-S0"
+    },
+    "task_id": {
+      "value": "12220-3440-12532-my-task3"
+    },
+    "uuid": "aE3luZKBQHq5rhilIkGfrQ=="
+  }
 }

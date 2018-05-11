@@ -6,7 +6,7 @@
   "accept": {
     "offer_ids": [
       {
-        "value": "f471178d-e60e-431d-b60c-d3c0421799fa-O0"
+        "value": "f471178d-e60e-431d-b60c-d3c0421799fa-O2"
       }
     ],
     "operations": [
@@ -17,7 +17,7 @@
             {
               "name": "My Task",
               "task_id": {
-                "value": "12220-3440-12532-my-task2"
+                "value": "12220-3440-12532-my-task1"
               },
               "agent_id": {
                 "value": "f471178d-e60e-431d-b60c-d3c0421799fa-S0"
@@ -44,17 +44,6 @@
                   "type": "SCALAR",
                   "scalar": {
                     "value": 128
-                  }
-                },
-                {
-                  "name": "ports",
-                  "type": "RANGES",
-                  "ranges": {
-                    "range": [
-                      { "begin": 31000,
-                        "end": 31000
-                      }
-                    ]
                   }
                 }
               ]
